@@ -1,6 +1,6 @@
 <?php
 require_once 'class.php';
-
+//index
 class CollatzWebApp {
     private $start;
     private $end;
