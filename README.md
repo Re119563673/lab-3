@@ -1,3 +1,3 @@
 PHP project
 
-coded by Rakibul Hasan
+coded by Rakibul Hasan  Rony
